@@ -1,7 +1,7 @@
 
 # Python Rutgers Bootcamp Challenge - Full web-scraping and data analysis project
 
-This activity is an introduction into SQL table creation, query, and analyses
+This activity is an introduction into full web-scraping and data analysis
 
 ## Description
 
